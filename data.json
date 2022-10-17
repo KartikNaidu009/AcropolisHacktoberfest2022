@@ -14,5 +14,12 @@
       "about": "Student",
       "image": "https://github.com/AddyDevil.png"
     }
+    {
+      "github": "KartikNaidu009",
+      "firstname": "Kartik",
+      "lastname": "Naidu",
+      "about": "Founder TechVraksh | Google Developer Expert (Angular)",
+      "image": "https://github.com/srashtisj.png"
+    },
   ]
 }
